@@ -2,7 +2,7 @@
 
 Url_report = "https://github.com/keremperq/MarkastokProductReport/blob/main/markastok_report.pptx"
 
-Cheerio library is used for this project. (link = "https://cheerio.js.org/")
+Cheerio library is used for this project. ("https://cheerio.js.org/")
 
 Challenges:
 	I can say that I had difficulty in understanding the system at first, since it is an area that I do not know at all. 
